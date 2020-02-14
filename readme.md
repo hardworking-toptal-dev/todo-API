@@ -1,4 +1,4 @@
-# To-do list app using ACTIX
+# To-do list web API using ACTIX
 
 A simple web API that can manage "to-do" items stored in a database, using the Rust Web Framework [Actix](https://actix.rs). 
 
